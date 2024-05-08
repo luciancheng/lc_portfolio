@@ -59,6 +59,8 @@ html {
 .navbar .links {
   background-color: rgb(255, 254, 253);
   margin-left: auto;
+  display: flex;
+  flex-direction: row;
 }
 
 .navbar a {
@@ -98,7 +100,7 @@ html {
   padding: 20px;
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
 }
 
 .intro .intro-section {
@@ -403,7 +405,7 @@ html {
   transition: 0.3s;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1700px) {
 
   .intro .profile-picture {
     width: 300px;
@@ -422,6 +424,20 @@ html {
   }
 }
 
+@media screen and (max-width: 900px) {
+  .navbar .links, .navbar {
+    flex-direction: column;
+  }
+
+  .navbar .links {
+    margin: 20px;
+    align-items: center;
+  }
+  .navbar {
+    align-items: center;
+  }
+
+}
 
 @media screen and (max-width: 650px) {
   .App {

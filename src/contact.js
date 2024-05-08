@@ -17,7 +17,7 @@ const Contact = () => {
                         <i className="fa-2x fa-brands fa-linkedin contact-social-img"></i>
                         <p className="contact-social-text">linkedin.com/in/luciancheng/</p>
                     </a>
-                    <a href="/" className="contact-social"  target="_blank" rel="noreferrer">
+                    <a href="mailto:luciancheng3@gmail.com" className="contact-social"  target="_blank" rel="noreferrer">
                         <i className="fa-2x fa-solid fa-envelope contact-social-img"></i>
                         <p className="contact-social-text">luciancheng3@gmail.com</p>
                     </a>
