@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LucianChengPortfolio/static/css/main.73c7b513.css",
-    "main.js": "/LucianChengPortfolio/static/js/main.112711e8.js",
+    "main.js": "/LucianChengPortfolio/static/js/main.ac371dae.js",
     "static/js/453.93cc0a2e.chunk.js": "/LucianChengPortfolio/static/js/453.93cc0a2e.chunk.js",
     "static/media/pacemaker.jpg": "/LucianChengPortfolio/static/media/pacemaker.d8aac3b05227f902e4de.jpg",
     "static/media/nadinamachina.jpg": "/LucianChengPortfolio/static/media/nadinamachina.0b2733c30e2c1871d0f2.jpg",
@@ -14,11 +14,11 @@
     "static/media/cartcenter.png": "/LucianChengPortfolio/static/media/cartcenter.d513dcde3a0c83194459.png",
     "index.html": "/LucianChengPortfolio/index.html",
     "main.73c7b513.css.map": "/LucianChengPortfolio/static/css/main.73c7b513.css.map",
-    "main.112711e8.js.map": "/LucianChengPortfolio/static/js/main.112711e8.js.map",
+    "main.ac371dae.js.map": "/LucianChengPortfolio/static/js/main.ac371dae.js.map",
     "453.93cc0a2e.chunk.js.map": "/LucianChengPortfolio/static/js/453.93cc0a2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73c7b513.css",
-    "static/js/main.112711e8.js"
+    "static/js/main.ac371dae.js"
   ]
 }
