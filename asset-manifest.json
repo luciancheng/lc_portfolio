@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/LucianChengPortfolio/static/css/main.73c7b513.css",
-    "main.js": "/LucianChengPortfolio/static/js/main.ac371dae.js",
-    "static/js/453.93cc0a2e.chunk.js": "/LucianChengPortfolio/static/js/453.93cc0a2e.chunk.js",
-    "static/media/pacemaker.jpg": "/LucianChengPortfolio/static/media/pacemaker.d8aac3b05227f902e4de.jpg",
-    "static/media/nadinamachina.jpg": "/LucianChengPortfolio/static/media/nadinamachina.0b2733c30e2c1871d0f2.jpg",
-    "static/media/mcmaster.jpg": "/LucianChengPortfolio/static/media/mcmaster.ba7aa3b3bc1f3380367f.jpg",
-    "static/media/LucianCheng.jpg": "/LucianChengPortfolio/static/media/LucianCheng.bedf669eb4e4d09a1efc.jpg",
-    "static/media/dimplecircuit.png": "/LucianChengPortfolio/static/media/dimplecircuit.e5da8bdf8830c83c9567.png",
-    "static/media/embeddedsystem.png": "/LucianChengPortfolio/static/media/embeddedsystem.6a907cd6b6b1d3d26551.png",
-    "static/media/LC_resume.pdf": "/LucianChengPortfolio/static/media/LC_resume.4780537708598701bfff.pdf",
-    "static/media/webdev.jpg": "/LucianChengPortfolio/static/media/webdev.07bb2101605a07655d9a.jpg",
-    "static/media/cartcenter.png": "/LucianChengPortfolio/static/media/cartcenter.d513dcde3a0c83194459.png",
-    "index.html": "/LucianChengPortfolio/index.html",
-    "main.73c7b513.css.map": "/LucianChengPortfolio/static/css/main.73c7b513.css.map",
-    "main.ac371dae.js.map": "/LucianChengPortfolio/static/js/main.ac371dae.js.map",
-    "453.93cc0a2e.chunk.js.map": "/LucianChengPortfolio/static/js/453.93cc0a2e.chunk.js.map"
+    "main.css": "/lc_portfolio/static/css/main.6d830e51.css",
+    "main.js": "/lc_portfolio/static/js/main.3bf29dad.js",
+    "static/js/453.93cc0a2e.chunk.js": "/lc_portfolio/static/js/453.93cc0a2e.chunk.js",
+    "static/media/pacemaker.jpg": "/lc_portfolio/static/media/pacemaker.d8aac3b05227f902e4de.jpg",
+    "static/media/nadinamachina.jpg": "/lc_portfolio/static/media/nadinamachina.0b2733c30e2c1871d0f2.jpg",
+    "static/media/mcmaster.jpg": "/lc_portfolio/static/media/mcmaster.ba7aa3b3bc1f3380367f.jpg",
+    "static/media/LucianCheng.jpg": "/lc_portfolio/static/media/LucianCheng.bedf669eb4e4d09a1efc.jpg",
+    "static/media/dimplecircuit.png": "/lc_portfolio/static/media/dimplecircuit.e5da8bdf8830c83c9567.png",
+    "static/media/embeddedsystem.png": "/lc_portfolio/static/media/embeddedsystem.6a907cd6b6b1d3d26551.png",
+    "static/media/LC_resume.pdf": "/lc_portfolio/static/media/LC_resume.4780537708598701bfff.pdf",
+    "static/media/webdev.jpg": "/lc_portfolio/static/media/webdev.07bb2101605a07655d9a.jpg",
+    "static/media/cartcenter.png": "/lc_portfolio/static/media/cartcenter.d513dcde3a0c83194459.png",
+    "index.html": "/lc_portfolio/index.html",
+    "main.6d830e51.css.map": "/lc_portfolio/static/css/main.6d830e51.css.map",
+    "main.3bf29dad.js.map": "/lc_portfolio/static/js/main.3bf29dad.js.map",
+    "453.93cc0a2e.chunk.js.map": "/lc_portfolio/static/js/453.93cc0a2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c7b513.css",
-    "static/js/main.ac371dae.js"
+    "static/css/main.6d830e51.css",
+    "static/js/main.3bf29dad.js"
   ]
 }
