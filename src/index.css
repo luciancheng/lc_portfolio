@@ -403,7 +403,30 @@ html {
   transition: 0.3s;
 }
 
+@media screen and (max-width: 1500px) {
+
+  .intro .profile-picture {
+    width: 300px;
+    height: 300px;
+  }
+
+  .about-div .about-image {
+    width: 300px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1900px) {
+  .App {
+    max-width: 90%;
+  }
+}
+
+
 @media screen and (max-width: 650px) {
+  .App {
+    max-width: 100%;
+  }
   .timeline{
     margin: 50px auto;
   }
