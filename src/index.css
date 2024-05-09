@@ -432,8 +432,14 @@ html {
   .navbar .links {
     margin: 20px;
     align-items: center;
+    margin-left: 0;
   }
   .navbar {
+    align-items: center;
+  }
+
+  .footer-pagelinks {
+    flex-direction: column;
     align-items: center;
   }
 
@@ -682,5 +688,4 @@ html {
   padding: 5px;
   margin: 5px 15px;
   color:#33333370;
-  margin-left: auto;
 }
