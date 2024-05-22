@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lc_portfolio/static/css/main.77671b22.css",
-    "main.js": "/lc_portfolio/static/js/main.8798bbfa.js",
+    "main.js": "/lc_portfolio/static/js/main.fbf44439.js",
     "static/js/453.93cc0a2e.chunk.js": "/lc_portfolio/static/js/453.93cc0a2e.chunk.js",
     "static/media/pacemaker.jpg": "/lc_portfolio/static/media/pacemaker.d8aac3b05227f902e4de.jpg",
     "static/media/nadinamachina.jpg": "/lc_portfolio/static/media/nadinamachina.0b2733c30e2c1871d0f2.jpg",
@@ -14,11 +14,11 @@
     "static/media/cartcenter.png": "/lc_portfolio/static/media/cartcenter.d513dcde3a0c83194459.png",
     "index.html": "/lc_portfolio/index.html",
     "main.77671b22.css.map": "/lc_portfolio/static/css/main.77671b22.css.map",
-    "main.8798bbfa.js.map": "/lc_portfolio/static/js/main.8798bbfa.js.map",
+    "main.fbf44439.js.map": "/lc_portfolio/static/js/main.fbf44439.js.map",
     "453.93cc0a2e.chunk.js.map": "/lc_portfolio/static/js/453.93cc0a2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77671b22.css",
-    "static/js/main.8798bbfa.js"
+    "static/js/main.fbf44439.js"
   ]
 }
