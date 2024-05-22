@@ -2,7 +2,7 @@ import LinkedIN_black from './images/LinkedIN_black.png';
 import Github_black from './images/Github_black.png'
 
 const Intro = () => {
-    const techStack = ['python', 'c', 'cpp', 'js', 'html', 'css'];
+    const techStack = ['python', 'c', 'cpp', 'csharp', 'js', 'html', 'css'];
         return (  
         <div className="intro">
             <div className="intro-section">
